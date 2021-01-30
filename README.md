@@ -4,10 +4,10 @@ gradney@chapman.edu
 2298459
 
 # Files:
-intarray.cpp
-zeroBoth.cpp
-salestax.cpp
-conversion.cpp
+intarray.cpp    
+zeroBoth.cpp    
+salestax.cpp    
+conversion.cpp    
 
 # Sources:
 zybook
